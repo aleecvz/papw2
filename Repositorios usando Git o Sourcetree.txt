@@ -1,0 +1,13 @@
+Repositorios usando Git o Sourcetree
+
+-Para cerar un nuevo repositorio solo basta con inicializar un nuevo proyecto sin nada, en caso de querer uno ya exitente es necesario clonarlo.
+*En Git sería así:
+  Para tomar un directorio y convertirlo en un nuevo repositorio simplemente puedes ejecutar git init, introducimos esto obteniendo un repositorio Git, donde mostramos la creación de un nuevo repositorio.
+*En Sourcetree así:
+  Accedemos a New repository y llenamos los datos necesarios para crearlo, poniendo el path del repositorio al igual que su nombre.
+
+-Se le pone nombre al repositorio al igual que una descripción para saber para que será usado.
+
+-Ya teniendo el repositorio tú puedes dar checkout y commits para ir actualizando su contenido.
+
+-El contenido de ambos que da almacenado localmente en tu computadora y además en el servidor.
